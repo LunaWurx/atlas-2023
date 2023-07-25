@@ -1,0 +1,80 @@
+{
+	"id": -1,
+	"name": "Neco-Arc",
+	"description": "Neco-Arc from the fighting game Melty Blood and before that the anime Tsukihime Remake series, She is canonically an elder god who takes this form because she is bored and finds it funny. ",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				1335,
+				-609
+			],
+			[
+				1332,
+				-611
+			],
+			[
+				1328,
+				-612
+			],
+			[
+				1328,
+				-622
+			],
+			[
+				1327,
+				-629
+			],
+			[
+				1331,
+				-629
+			],
+			[
+				1338,
+				-633
+			],
+			[
+				1344,
+				-633
+			],
+			[
+				1344,
+				-630
+			],
+			[
+				1353,
+				-629
+			],
+			[
+				1349,
+				-624
+			],
+			[
+				1351,
+				-620
+			],
+			[
+				1350,
+				-618
+			],
+			[
+				1348,
+				-617
+			],
+			[
+				1347,
+				-613
+			],
+			[
+				1346,
+				-608
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1339,
+			-621
+		]
+	}
+}
